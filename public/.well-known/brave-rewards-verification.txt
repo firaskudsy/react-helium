@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: helium-tools.web.app
+Token: 0663672737bdd6458a4ef9a431a7f2e1415a4fd8fda4b2f29d6cb032d3a82a2e

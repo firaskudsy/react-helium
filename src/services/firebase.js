@@ -5,7 +5,7 @@ import firebase from 'firebase/compat/app';
 import publicIp from 'public-ip';
 import {createUserWithEmailAndPassword, signInWithEmailAndPassword, signInAnonymously} from 'firebase/auth';
 import faker from 'faker';
-import firebaseConfig from '../../src/services/config'; // import firebase config
+import firebaseConfig from '../services/config'; // import firebase config
 
 
 // Initialize Firebase
